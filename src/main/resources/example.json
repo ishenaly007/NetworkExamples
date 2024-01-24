@@ -1,0 +1,19 @@
+{
+  "site": "www.abit8.com",
+  "address": {
+    "streetAddress": "пл.Шранговича, 4",
+    "city": "Минск"
+  },
+  "courses": [
+    {
+      "id": "01",
+      "name": "Java Core",
+      "duration": "2 months"
+    },
+    {
+      "id": "02",
+      "name": "Java EE",
+      "duration": "4 months"
+    }
+  ]
+}
